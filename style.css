@@ -1,0 +1,108 @@
+/* Estilo general - Estilo Retro Pixel Art con colores mate */
+body {
+    font-family: "Press Start 2P", monospace; /* Fuente retro */
+    background-color: #333333; /* Fondo oscuro mate */
+    color: #4caf50; /* Texto verde mate apagado */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    image-rendering: pixelated; /* Para que las imágenes tengan estilo pixelado */
+}
+
+/* Encabezado estilo retro con colores mate */
+header {
+    background-color: #2e2e2e; /* Gris oscuro mate */
+    color: #ffcc80; /* Amarillo mate */
+    padding: 20px;
+    text-align: center;
+    border-bottom: 4px solid #e57373; /* Borde rojo mate */
+    box-shadow: 0 0 10px #ffcc80;
+}
+
+header p {
+    margin: 5px;
+    font-size: 1.2em;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 15px;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #ffcc80;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 8px 15px;
+    background-color: #333333; /* Fondo gris mate */
+    border: 4px solid #e57373; /* Borde rojo mate */
+    border-radius: 0; /* Esquinas cuadradas para estilo pixel */
+    transition: background-color 0.3s ease;
+}
+
+nav ul li a:hover {
+    background-color: #e57373; /* Rojo mate al pasar el mouse */
+}
+
+/* Sección de proyectos estilo retro con colores mate */
+section {
+    padding: 20px;
+    margin: 40px auto;
+    max-width: 900px;
+    background-color: #444444; /* Fondo gris mate */
+    border: 4px solid #4caf50; /* Borde verde mate */
+    box-shadow: 0 0 10px #4caf50;
+}
+
+h2 {
+    color: #ffcc80; /* Amarillo mate */
+    text-align: center;
+    font-size: 1.5em;
+    border-bottom: 4px solid #4caf50;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+/* Galería de proyectos estilo retro con colores mate */
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+}
+
+.proyecto {
+    background-color: #2e2e2e; /* Gris oscuro mate */
+    border: 4px solid #e57373; /* Rojo mate */
+    padding: 15px;
+    text-align: center;
+    color: #4caf50; /* Verde mate */
+    box-shadow: 0 0 10px #ffcc80;
+    transition: transform 0.2s;
+}
+
+.proyecto:hover {
+    transform: scale(1.05); /* Efecto de zoom retro */
+}
+
+.proyecto img {
+    width: 100%;
+    height: auto;
+    border: 4px solid #4caf50; /* Verde mate */
+    margin-bottom: 15px;
+    image-rendering: pixelated; /* Asegura que las imágenes se vean pixeladas */
+}
+
+/* Footer estilo retro con colores mate */
+footer {
+    background-color: #2e2e2e; /* Gris oscuro mate */
+    color: #ffcc80; /* Amarillo mate */
+    text-align: center;
+    padding: 20px;
+    border-top: 4px solid #e57373; /* Borde rojo mate */
+}
