@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">My name is Jean</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
@@ -31,10 +27,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/jeanub/jeanub/output/snake.svg" alt="Snake animation" />
 
 ###
 
