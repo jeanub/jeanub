@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Jean</h1>
 
 <p align="center">
 🎓 Systems Engineering Student & Software Development Technician<br>
@@ -55,9 +55,9 @@ Stay tuned! 🔔
 
 ## 📫 Let’s Connect!
 
-- ✉️ Email: [youremail@example.com]  
-- 💼 LinkedIn: [Your LinkedIn profile]  
-- 🌐 Portfolio: [Your personal website if any]
+- ✉️ Email: [jeanubdev@gmail.com]  
+- 💼 LinkedIn: [https://www.linkedin.com/in/jean-uribe-a34aa0322/]  
+- 🌐 Portfolio: [Comming]
 
 ---
 
