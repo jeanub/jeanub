@@ -1,68 +1,45 @@
-<h1 align="center">Hi there 👋, I'm Jean</h1>
+# 👋 ¡Hola! Soy Jean Axel Uribe
 
-<p align="center">
-🎓 Systems Engineering Student & Software Development Technician<br>
-🎯 Data Analysis with a Design-Oriented Approach<br>
-💡 Turning raw data into visual stories
-</p>
+🎓 Estudiante de Ingeniería en Sistemas (UTN) y Tecnicatura en Desarrollo de Software (IES 9-012).  
+📊 Apasionado por el análisis de datos y la transformación de información en conocimiento útil.  
+💻 Actualmente perfecciono mis habilidades en Python, SQL, Power BI y Excel.  
 
 ---
 
-## 🔍 About Me
+## 🚀 Sobre mí
 
-I'm currently studying **Systems Engineering** and **Software Development**, with a growing passion for **data analysis** and its communication through clean and effective **visual design**.
-
-My focus is not just on understanding data, but on **making it speak** through visuals, dashboards, and well-structured reports.
+Soy una persona autodidacta, activa y curiosa. Me gusta resolver problemas usando datos, crear visualizaciones claras y automatizar tareas repetitivas. También practico deportes como Parkour, Tricking, Skate y Muay Thai, lo que me ha ayudado a desarrollar disciplina, resiliencia y agilidad mental.
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 Habilidades
 
-| Tool/Language | Level | Usage |
-|---------------|-------|-------|
-| 🐍 Python      | Intermediate | Data analysis, scripting |
-| 💾 SQL         | Intermediate | Queries, joins, data exploration |
-| 📊 Power BI    | Beginner | Dashboards & reports |
-| 📦 NumPy       | -     | Numerical analysis |
-| 📈 Matplotlib  | -     | Data visualization |
-| 🌈 Seaborn     | -     | Statistical visualizations |
-
-> I work mainly in **Jupyter Notebook**, and I use **VS Code**, **Git** and **GitHub** for version control and collaboration.
+- **Lenguajes**: Python (intermedio), SQL (intermedio)  
+- **Herramientas**: Power BI, Excel, Jupyter Notebook  
+- **Librerías**: NumPy, Pandas, Matplotlib, Seaborn, BeautifulSoup  
+- **Bases de Datos**: MySQL  
+- **Idiomas**: Español (nativo), Inglés (básico/intermedio)
 
 ---
 
-## 🚧 Projects (WIP)
+## 📂 Proyectos destacados
 
-I’m currently working on projects that explore the intersection of **data, visualization, and design**. Soon you'll find here:
+### 📺 Análisis de series de LACartoon
+- Web scraping para obtener datos de una página de dibujos animados
+- Almacenamiento en MySQL
+- Análisis descriptivo, temporal y comparativo
+- En progreso: análisis de reseñas de usuarios
 
-- 📊 **Exploratory Data Analysis Notebooks**
-- 🎨 **Custom-designed dashboards**
-- 🧩 **SQL-powered data insights**
-- 🧪 **Mini machine learning experiments**
-
-Stay tuned! 🔔
-
----
-
-## 🎯 Goals for 2025
-
-- 🚀 Master Power BI and advanced data storytelling
-- 🧠 Start learning machine learning with scikit-learn
-- 📚 Share insightful notebooks and templates
-- 🤝 Collaborate on open-source or academic data projects
+➡️ Repositorio disponible pronto
 
 ---
 
-## 📫 Let’s Connect!
+## 📫 Contacto
 
-- ✉️ Email: [jeanubdev@gmail.com]  
-- 💼 LinkedIn: [https://www.linkedin.com/in/jean-uribe-a34aa0322/]  
-- 🌐 Portfolio: [Comming]
+- **Email**: jeanubdev@gmail.com  
+- **LinkedIn**: [Jean Uribe](https://www.linkedin.com/in/jean-uribe-a34aa0322/)  
+- **GitHub**: [@jeanub](https://github.com/jeanub)
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula" />
-</p>
+*Gracias por visitar mi perfil. ¡Estoy abierto a oportunidades, feedback y colaboración!*
