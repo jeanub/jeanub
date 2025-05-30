@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="light" data-lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jean Uribe | Portafolio de Analista de Datos</title>
+  <meta name="description" content="Portafolio de Jean Uribe, Analista de Datos. Descubre proyectos, habilidades y cómo transformo datos en insights estratégicos.">
+  <meta name="keywords" content="analista de datos, jean uribe, portfolio, python, sql, power bi, tableau, visualizacion de datos, business intelligence, frontend">
+  <meta name="author" content="Jean Uribe">
+  <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="assets/favicon.ico">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&family=Montserrat:wght@400;500;600;700&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <header class="site-header-main">
+    <nav class="navbar" aria-label="Navegación principal">
+        <div class="nav-container container">
+        <a href="#hero" class="logo" aria-label="Jean Uribe - Volver al inicio">
+          <span class="logo-text">JUB</span>
+          <span class="logo-decoration" aria-hidden="true"></span>
+        </a>
+
+        <button class="menu-toggle" aria-label="Alternar menú de navegación" aria-expanded="false" aria-controls="nav-links-list">
+          <span class="menu-bar" aria-hidden="true"></span>
+          <span class="menu-bar" aria-hidden="true"></span>
+          <span class="menu-bar" aria-hidden="true"></span>
+        </button>
+
+        <ul class="nav-links" id="nav-links-list">
+          <li class="nav-item"><a href="#hero" class="nav-link active">Inicio</a></li>
+          <li class="nav-item"><a href="#sobre-mi" class="nav-link">Sobre Mí</a></li>
+          <li class="nav-item"><a href="#proyectos" class="nav-link">Proyectos</a></li>
+          <li class="nav-item"><a href="#experiencia" class="nav-link">Experiencia</a></li>
+          <li class="nav-item"><a href="#habilidades" class="nav-link">Habilidades</a></li>
+          <li class="nav-item"><a href="#contacto" class="nav-link">Contacto</a></li>
+          <li class="nav-item"><a href="assets/cv.pdf" target="_blank" rel="noopener noreferrer" class="nav-link cv-link">CV</a></li>
+          
+          <li class="nav-item nav-item-settings" id="nav-settings-dropdown-container">
+            <button class="nav-link settings-trigger-button" aria-label="Abrir opciones de tema e idioma" aria-haspopup="true" aria-expanded="false">
+              <i class="fas fa-cog"></i> </button>
+            <div class="settings-dropdown-menu" role="menu">
+              <button id="theme-toggle" role="menuitem" aria-label="Cambiar tema" title="Cambiar tema">
+                <i class="fas fa-moon"></i> <span class="dropdown-text">Tema</span>
+              </button>
+              <button id="language-toggle" role="menuitem" aria-label="Cambiar idioma" title="Cambiar idioma">
+                <span class="lang-label-icon">ES</span> <span class="dropdown-text">Idioma</span>
+              </button>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+    <main>
+        <section id="hero" class="hero">
+            <div class="hero-overlay" aria-hidden="true"></div> <div class="hero-content">
+                <h1 class="hero-title">Jean Uribe</h1>
+                <h2 class="hero-subtitle">Analista de Datos &amp; Desarrollador</h2>
+                <p class="hero-description">
+                    Transformo datos complejos en insights accionables y soluciones data-driven,
+                    combinando análisis riguroso con una presentación clara y efectiva.
+                </p>
+                <div class="hero-buttons">
+                    <a href="#proyectos" class="button button-primary hero-button">Ver Mis Proyectos</a>
+                    <a href="#contacto" class="button button-secondary hero-button">Contactarme</a>
+                </div>
+            </div>
+        </section>
+        <section id="sobre-mi" class="about-section section-padding">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Sobre <span class="highlight">Mí</span></h2>
+                    <div class="section-divider" aria-hidden="true"></div>
+                    <p class="section-subtitle">
+                        Una breve introducción a mi perfil profesional, mi enfoque analítico y mis motivaciones en el mundo de los datos.
+                    </p>
+                </div>
+
+                <div class="about-content">
+                    <div class="about-image-container fade-in-up">
+                        <img src="Smoky0.jpg" alt="Retrato profesional de Jean Axel Uribe en un entorno natural con iluminación suave." class="about-image"> <div class="image-overlay" aria-hidden="true"></div>
+                        <div class="image-border" aria-hidden="true"></div>
+                    </div>
+
+                    <div class="about-details fade-in-up" data-animation-delay="200">
+                        <p class="intro-text">
+                            Soy un analista de datos apasionado y orientado al detalle, con una sólida formación en ingeniería de sistemas.
+                            Mi especialidad es transformar datos complejos en insights claros y accionables que impulsan la toma de
+                            decisiones estratégicas y eficientes. Busco constantemente oportunidades para aplicar mis habilidades y
+                            contribuir al crecimiento a través de soluciones data-driven.
+                        </p>
+
+                        <div class="about-subsection">
+                            <h3 class="subsection-title">
+                                <i class="fas fa-graduation-cap" aria-hidden="true"></i> Formación Académica
+                            </h3>
+                            <ul class="education-list">
+                                <li class="education-item">
+                                    <span class="degree">Ingeniería en Sistemas de Información</span>
+                                    <span class="institution">Universidad Tecnológica Nacional (UTN)</span>
+                                    <span class="period">2021 – Cursando Actualmente</span>
+                                </li>
+                                <li class="education-item">
+                                    <span class="degree">Tecnicatura Superior en Desarrollo de Software</span>
+                                    <span class="institution">IES 9-012 "San Rafael en Informática"</span>
+                                    <span class="period">2022 – Cursando Actualmente</span>
+                                </li>
+                                <li class="education-item">
+                                    <span class="degree">Certificación: Data Analysis con Python</span>
+                                    <span class="institution">Coursera (IBM Skills Network)</span>
+                                    <span class="period">Completado: 2023</span>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div class="about-subsection">
+                            <h3 class="subsection-title">
+                                <i class="fas fa-bullseye" aria-hidden="true"></i> Mi Enfoque Analítico
+                            </h3>
+                            <p>
+                                Abordo cada desafío de datos con una mentalidad curiosa y metódica, enfocándome en la calidad de los datos,
+                                la elección de las herramientas adecuadas y, fundamentalmente, en la comunicación efectiva de los hallazgos.
+                                Mi objetivo es siempre traducir el análisis en valor tangible.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="proyectos" class="projects-section section-padding">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Proyectos <span class="highlight">Destacados</span></h2>
+                    <div class="section-divider" aria-hidden="true"></div>
+                    <p class="section-subtitle">
+                        Una selección de mis trabajos donde aplico análisis de datos y desarrollo para resolver problemas y generar valor.
+                        </p>
+                </div>
+
+                <div class="projects-grid">
+                    <article class="project-card fade-in-up">
+                        <div class="project-image-container">
+                            <img src="assets/proyectos/LACartoons.webp" alt="Gráfico de barras mostrando tendencias en series animadas latinoamericanas." class="project-image"> <div class="project-overlay" aria-hidden="true"> <div class="project-badges">
+                                    <span class="project-badge">Análisis de Datos</span>
+                                    <span class="project-badge">Web Scraping</span>
+                                    <span class="project-badge">Python</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="project-content">
+                            <h3 class="project-title">Análisis de Series Animadas</h3>
+                            <div class="project-summary">
+                                <p><strong>Problema:</strong> Comprender las tendencias y características de las series animadas producidas en Latinoamérica.</p>
+                                <p><strong>Solución:</strong> Desarrollo de un sistema de web scraping para recolectar datos, seguido de un análisis descriptivo y temporal para identificar patrones clave.</p>
+                                <p><strong>Impacto:</strong> Generación de insights sobre géneros populares, duración promedio y evolución de la producción a lo largo del tiempo.</p>
+                            </div>
+                            <div class="project-tech-stack" aria-label="Tecnologías y herramientas utilizadas para el proyecto de Series Animadas">
+                                <span class="tech-tag"><i class="fab fa-python" aria-hidden="true"></i> Python (Pandas, BeautifulSoup)</span>
+                                <span class="tech-tag"><i class="fas fa-database" aria-hidden="true"></i> MySQL</span>
+                                <span class="tech-tag"><i class="fas fa-chart-bar" aria-hidden="true"></i> Power BI</span>
+                            </div>
+                            <div class="project-meta">
+                                <span class="project-date"><i class="far fa-calendar-alt" aria-hidden="true"></i> Nov 2023 – Presente</span>
+                                <span class="project-status"><i class="fas fa-code-branch" aria-hidden="true"></i> En desarrollo</span>
+                            </div>
+                            <div class="project-actions">
+                                <a href="https://github.com/jeanub/proyecto-lacartoon" target="_blank" rel="noopener noreferrer" class="button button-secondary project-button code-button">
+                                    <i class="fas fa-code" aria-hidden="true"></i> Ver Código
+                                </a>
+                                <a href="#" class="button button-primary project-button demo-button" aria-label="Ver demostración o dashboard interactivo del proyecto (Próximamente)" aria-disabled="true"> <i class="fas fa-chart-pie" aria-hidden="true"></i> Ver Dashboard (Próx.)
+                                </a>
+                            </div>
+                        </div>
+                    </article>
+
+                    <article class="project-card fade-in-up" data-animation-delay="200">
+                        <div class="project-image-container">
+                            <img src="assets/proyectos/Finance-dashboard.jpg" alt="Dashboard financiero con KPIs y gráficos de ejemplo para una PYME." class="project-image"> <div class="project-overlay" aria-hidden="true">
+                                <div class="project-badges">
+                                    <span class="project-badge">Business Intelligence</span>
+                                    <span class="project-badge">Visualización</span>
+                                    <span class="project-badge">Excel</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="project-content">
+                            <h3 class="project-title">Dashboard Financiero Interactivo (PYME)</h3>
+                            <div class="project-summary">
+                                <p><strong>Problema:</strong> Una PYME necesitaba una forma clara y rápida de visualizar sus indicadores financieros clave para la toma de decisiones.</p>
+                                <p><strong>Solución:</strong> Creación de un dashboard interactivo en Excel (y Power BI) con visualizaciones personalizadas y capacidad de drill-down.</p>
+                                <p><strong>Impacto:</strong> Mejora del 25% en la eficiencia de la revisión financiera mensual y facilitación de la identificación de áreas de mejora.</p>
+                            </div>
+                            <div class="project-tech-stack" aria-label="Tecnologías y herramientas utilizadas para el Dashboard Financiero">
+                                <span class="tech-tag"><i class="fas fa-file-excel" aria-hidden="true"></i> Excel (Power Query, DAX)</span>
+                                <span class="tech-tag"><i class="fas fa-chart-bar" aria-hidden="true"></i> Power BI</span>
+                                <span class="tech-tag"><i class="fas fa-database" aria-hidden="true"></i> SQL (para extracción de datos)</span>
+                            </div>
+                            <div class="project-meta">
+                                <span class="project-date"><i class="far fa-calendar-alt" aria-hidden="true"></i> Ago 2023 – Oct 2023</span>
+                                <span class="project-status completed"><i class="fas fa-check-circle" aria-hidden="true"></i> Completado</span>
+                            </div>
+                            <div class="project-actions">
+                                <a href="https://github.com/jeanub/dashboard-financiero" target="_blank" rel="noopener noreferrer" class="button button-secondary project-button code-button">
+                                    <i class="fas fa-code" aria-hidden="true"></i> Ver Código
+                                </a>
+                                </div>
+                        </div>
+                    </article>
+
+                    <article class="project-card fade-in-up" data-animation-delay="400">
+                        <div class="project-image-container">
+                            <img src="assets/proyectos/reporte-automatizacion.jpg" alt="Diagrama conceptual de un flujo de automatización de reportes con Python." class="project-image"> <div class="project-overlay" aria-hidden="true">
+                                <div class="project-badges">
+                                    <span class="project-badge">Automatización (RPA)</span>
+                                    <span class="project-badge">Python</span>
+                                    <span class="project-badge">Eficiencia</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="project-content">
+                            <h3 class="project-title">Automatización de Generación de Reportes</h3>
+                            <div class="project-summary">
+                                <p><strong>Problema:</strong> Un proceso manual de generación de reportes mensuales consumía 8 horas de trabajo operativo.</p>
+                                <p><strong>Solución:</strong> Desarrollo de scripts en Python utilizando Pandas para automatizar la extracción, transformación y consolidación de datos, generando los reportes finales.</p>
+                                <p><strong>Impacto:</strong> Reducción del tiempo de generación de reportes de 8 horas a 15 minutos, liberando recursos y minimizando errores manuales.</p>
+                            </div>
+                            <div class="project-tech-stack" aria-label="Tecnologías y herramientas utilizadas para la Automatización de Reportes">
+                                <span class="tech-tag"><i class="fab fa-python" aria-hidden="true"></i> Python (Pandas, Openpyxl)</span>
+                                <span class="tech-tag"><i class="fas fa-robot" aria-hidden="true"></i> Scripting</span>
+                                <span class="tech-tag"><i class="fas fa-cogs" aria-hidden="true"></i> Optimización</span>
+                            </div>
+                            <div class="project-meta">
+                                <span class="project-date"><i class="far fa-calendar-alt" aria-hidden="true"></i> May 2023 – Jun 2023</span>
+                                <span class="project-status completed"><i class="fas fa-check-circle" aria-hidden="true"></i> Completado</span>
+                            </div>
+                            <div class="project-actions">
+                                <a href="https://github.com/jeanub/automatizacion-reportes" target="_blank" rel="noopener noreferrer" class="button button-secondary project-button code-button">
+                                    <i class="fas fa-code" aria-hidden="true"></i> Ver Código
+                                </a>
+                                </div>
+                        </div>
+                    </article>
+                </div> <div class="section-footer">
+                    <a href="https://github.com/jeanub?tab=repositories" target="_blank" rel="noopener noreferrer" class="button button-secondary view-all-button">
+                        Ver Más Proyectos en GitHub <i class="fab fa-github" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </div>
+        </section>
+        <section id="experiencia" class="experience-section section-padding">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Experiencia <span class="highlight">Profesional</span></h2>
+                    <div class="section-divider" aria-hidden="true"></div>
+                    <p class="section-subtitle">Mi trayectoria y contribuciones clave en roles anteriores y actuales.</p>
+                </div>
+
+                <div class="experience-timeline">
+                    <article class="experience-item fade-in-up">
+                        <div class="experience-icon" aria-hidden="true"> <i class="fas fa-briefcase"></i>
+                        </div>
+                        <div class="experience-details">
+                            <div class="experience-header">
+                                <h3 class="experience-job-title">Atención al Cliente y Soporte Técnico con Enfoque en Datos</h3>
+                                <div class="experience-meta">
+                                    <span class="company"><i class="fas fa-building" aria-hidden="true"></i> Macrotec</span>
+                                    <span class="date"><i class="far fa-calendar-alt" aria-hidden="true"></i> Ene 2022 – Presente</span>
+                                </div>
+                            </div>
+                            <div class="experience-content">
+                                <p class="experience-summary">
+                                    Rol multifacético combinando atención directa al cliente y soporte técnico con la aplicación de análisis de datos para optimizar procesos internos y mejorar la gestión financiera del local.
+                                </p>
+                                <ul class="experience-description">
+                                    <li>
+                                        <i class="fas fa-chart-line" aria-hidden="true"></i>
+                                        <span>Análisis de datos de ventas y bancarios para la gestión financiera, resultando en una mejora del 30% en la toma de decisiones estratégicas.</span>
+                                    </li>
+                                    <li>
+                                        <i class="fas fa-headset" aria-hidden="true"></i>
+                                        <span>Provisión de soporte técnico especializado, alcanzando un índice de satisfacción del cliente del 95%.</span>
+                                    </li>
+                                    <li>
+                                        <i class="fas fa-robot" aria-hidden="true"></i>
+                                        <span>Desarrollo de scripts en Python para automatizar reportes mensuales, reduciendo el tiempo de generación de 8 horas a 15 minutos.</span>
+                                    </li>
+                                    <li>
+                                        <i class="fas fa-boxes" aria-hidden="true"></i>
+                                        <span>Implementación de un sistema de inventario digital que disminuyó las pérdidas por descuadre en un 15%.</span>
+                                    </li>
+                                </ul>
+                                <div class="experience-tech" aria-label="Tecnologías y habilidades clave aplicadas en Macrotec">
+                                    <span class="tech-tag">Análisis de Datos</span>
+                                    <span class="tech-tag">Python</span>
+                                    <span class="tech-tag">Excel Avanzado</span>
+                                    <span class="tech-tag">Power BI</span>
+                                    <span class="tech-tag">Soporte Técnico</span>
+                                    <span class="tech-tag">Atención al Cliente</span>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+
+                </div> </div>
+        </section>
+
+
+        <section id="habilidades" class="skills-section section-padding">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Mis <span class="highlight">Habilidades</span></h2>
+                    <div class="section-divider" aria-hidden="true"></div>
+                    <p class="section-subtitle">
+                        Un panorama de mis competencias técnicas, herramientas que domino y las habilidades conceptuales que aplico en cada proyecto.
+                    </p>
+                </div>
+
+                <div class="skills-categories">
+                    <div class="skills-category fade-in-up">
+                        <div class="category-header">
+                            <i class="fas fa-code category-icon" aria-hidden="true"></i>
+                            <h3 class="category-title">Análisis de Datos y Programación</h3>
+                        </div>
+                        <div class="skills-grid">
+                            <div class="skill-card">
+                                <div class="skill-icon-container">
+                                    <img src="assets/icons/python.png" alt="Logo de Python" class="skill-icon"> <div class="skill-level-indicator" aria-label="Nivel de habilidad en Python: Avanzado">85%</div>
+                                </div>
+                                <div class="skill-content">
+                                    <h4 class="skill-title" id="skill-title-python">Python</h4>
+                                    <div class="skill-level-container" role="progressbar" data-level="85" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" aria-labelledby="skill-title-python">
+                                        <div class="level-bar" style="width: 0%;"></div> </div>
+                                    <div class="skill-tags" aria-label="Librerías y frameworks de Python relevantes">
+                                        <span class="skill-tag">Pandas</span>
+                                        <span class="skill-tag">NumPy</span>
+                                        <span class="skill-tag">Scikit-learn</span>
+                                        <span class="skill-tag">BeautifulSoup</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="skill-card">
+                                <div class="skill-icon-container">
+                                    <img src="assets/icons/sql.png" alt="Logo de SQL" class="skill-icon">
+                                    <div class="skill-level-indicator" aria-label="Nivel de habilidad en SQL: Avanzado">80%</div>
+                                </div>
+                                <div class="skill-content">
+                                    <h4 class="skill-title" id="skill-title-sql">SQL</h4>
+                                    <div class="skill-level-container" role="progressbar" data-level="80" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" aria-labelledby="skill-title-sql">
+                                        <div class="level-bar" style="width: 0%;"></div>
+                                    </div>
+                                    <div class="skill-tags" aria-label="Bases de datos y conceptos de SQL">
+                                        <span class="skill-tag">MySQL</span>
+                                        <span class="skill-tag">PostgreSQL</span>
+                                        <span class="skill-tag">Consultas Complejas</span>
+                                        <span class="skill-tag">Optimización</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="skills-category fade-in-up" data-animation-delay="200">
+                        <div class="category-header">
+                            <i class="fas fa-chart-bar category-icon" aria-hidden="true"></i>
+                            <h3 class="category-title">Visualización y Business Intelligence</h3>
+                        </div>
+                        <div class="skills-grid">
+                            <div class="skill-card">
+                                <div class="skill-icon-container">
+                                    <img src="assets/icons/Power-bi.png" alt="Logo de Power BI" class="skill-icon">
+                                    <div class="skill-level-indicator" aria-label="Nivel de habilidad en Power BI: Intermedio-Avanzado">75%</div>
+                                </div>
+                                <div class="skill-content">
+                                    <h4 class="skill-title" id="skill-title-powerbi">Power BI</h4>
+                                    <div class="skill-level-container" role="progressbar" data-level="75" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" aria-labelledby="skill-title-powerbi">
+                                        <div class="level-bar" style="width: 0%;"></div>
+                                    </div>
+                                    <div class="skill-tags" aria-label="Conceptos y herramientas de Power BI">
+                                        <span class="skill-tag">DAX</span>
+                                        <span class="skill-tag">Modelado de Datos</span>
+                                        <span class="skill-tag">Dashboards Interactivos</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="skill-card">
+                                <div class="skill-icon-container">
+                                    <img src="assets/icons/Tableau.png" alt="Logo de Tableau" class="skill-icon">
+                                    <div class="skill-level-indicator" aria-label="Nivel de habilidad en Tableau: Intermedio">70%</div>
+                                </div>
+                                <div class="skill-content">
+                                    <h4 class="skill-title" id="skill-title-tableau">Tableau</h4>
+                                    <div class="skill-level-container" role="progressbar" data-level="70" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" aria-labelledby="skill-title-tableau">
+                                        <div class="level-bar" style="width: 0%;"></div>
+                                    </div>
+                                    <div class="skill-tags" aria-label="Conceptos de Tableau">
+                                        <span class="skill-tag">Visualizaciones</span>
+                                        <span class="skill-tag">Storytelling</span>
+                                        <span class="skill-tag">Dashboards</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="skill-card">
+                                <div class="skill-icon-container">
+                                    <img src="assets/icons/Matplotlib&Seaborn.png" alt="Logos de Matplotlib y Seaborn" class="skill-icon">
+                                    <div class="skill-level-indicator" aria-label="Nivel de habilidad en Matplotlib y Seaborn: Avanzado">80%</div>
+                                </div>
+                                <div class="skill-content">
+                                    <h4 class="skill-title" id="skill-title-matplotlib-seaborn">Matplotlib &amp; Seaborn</h4>
+                                    <div class="skill-level-container" role="progressbar" data-level="80" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" aria-labelledby="skill-title-matplotlib-seaborn">
+                                        <div class="level-bar" style="width: 0%;"></div>
+                                    </div>
+                                    <div class="skill-tags" aria-label="Uso de Matplotlib y Seaborn">
+                                        <span class="skill-tag">Gráficos Estadísticos</span>
+                                        <span class="skill-tag">Personalización Avanzada</span>
+                                        <span class="skill-tag">Exploración de Datos</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="skills-category fade-in-up" data-animation-delay="400">
+                        <div class="category-header">
+                            <i class="fas fa-lightbulb category-icon" aria-hidden="true"></i>
+                            <h3 class="category-title">Habilidades Conceptuales y Blandas</h3>
+                        </div>
+                        <ul class="soft-skills-list">
+                            <li class="soft-skill-item"> <i class="fas fa-check-circle soft-skill-icon" aria-hidden="true"></i>
+                                <span class="soft-skill-name">Resolución de Problemas Complejos</span>
+                                <p class="soft-skill-description">Capacidad para descomponer problemas ambiguos, identificar variables clave y diseñar estrategias analíticas efectivas.</p>
+                            </li>
+                            <li class="soft-skill-item"> <i class="fas fa-comments soft-skill-icon" aria-hidden="true"></i>
+                                <span class="soft-skill-name">Comunicación de Datos (Storytelling)</span>
+                                <p class="soft-skill-description">Habilidad para traducir análisis técnicos complejos en narrativas claras, concisas y persuasivas para audiencias diversas.</p>
+                            </li>
+                            <li class="soft-skill-item"> <i class="fas fa-search soft-skill-icon" aria-hidden="true"></i>
+                                <span class="soft-skill-name">Atención al Detalle y Rigor Analítico</span>
+                                <p class="soft-skill-description">Compromiso con la precisión, la validación de datos y la aplicación de metodologías rigurosas en cada etapa del análisis.</p>
+                            </li>
+                            <li class="soft-skill-item"> <i class="fas fa-brain soft-skill-icon" aria-hidden="true"></i>
+                                <span class="soft-skill-name">Pensamiento Crítico y Estratégico</span>
+                                <p class="soft-skill-description">Evaluar información desde múltiples perspectivas, cuestionar supuestos y conectar los insights con los objetivos de negocio.</p>
+                            </li>
+                            <li class="soft-skill-item"> <i class="fas fa-users soft-skill-icon" aria-hidden="true"></i>
+                                <span class="soft-skill-name">Colaboración y Trabajo en Equipo</span>
+                                <p class="soft-skill-description">Experiencia trabajando efectivamente con equipos multidisciplinarios para alcanzar objetivos comunes.</p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="skills-category fade-in-up" data-animation-delay="600">
+                        <div class="category-header">
+                            <i class="fas fa-tools category-icon" aria-hidden="true"></i>
+                            <h3 class="category-title">Herramientas Adicionales</h3>
+                        </div>
+                        <div class="skills-grid">
+                            <div class="skill-card">
+                                <div class="skill-icon-container">
+                                    <img src="assets/icons/git.png" alt="Logo de Git" class="skill-icon">
+                                    <div class="skill-level-indicator" aria-label="Nivel de habilidad en Git: Intermedio">70%</div>
+                                </div>
+                                <div class="skill-content">
+                                    <h4 class="skill-title" id="skill-title-git">Git &amp; GitHub</h4>
+                                    <div class="skill-level-container" role="progressbar" data-level="70" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" aria-labelledby="skill-title-git">
+                                        <div class="level-bar" style="width: 0%;"></div>
+                                    </div>
+                                    <div class="skill-tags" aria-label="Conceptos de Git y GitHub">
+                                        <span class="skill-tag">Control de Versiones</span>
+                                        <span class="skill-tag">Repositorios</span>
+                                        <span class="skill-tag">Colaboración</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="skill-card">
+                                <div class="skill-icon-container">
+                                    <img src="assets/icons/notion.png" alt="Logo de Notion" class="skill-icon">
+                                    <div class="skill-level-indicator" aria-label="Nivel de habilidad en Notion: Avanzado">85%</div>
+                                </div>
+                                <div class="skill-content">
+                                    <h4 class="skill-title" id="skill-title-notion">Notion</h4>
+                                    <div class="skill-level-container" role="progressbar" data-level="85" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" aria-labelledby="skill-title-notion">
+                                        <div class="level-bar" style="width: 0%;"></div>
+                                    </div>
+                                    <div class="skill-tags" aria-label="Uso de Notion">
+                                        <span class="skill-tag">Gestión de Proyectos</span>
+                                        <span class="skill-tag">Documentación</span>
+                                        <span class="skill-tag">Organización Personal</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> </div>
+        </section>
+        <section id="contacto" class="contact-section section-padding">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Contáct<span class="highlight">ame</span></h2>
+                    <div class="section-divider" aria-hidden="true"></div>
+                    <p class="section-subtitle">
+                        ¿Interesado en colaborar o tienes alguna pregunta? No dudes en enviarme un mensaje.
+                    </p>
+                </div>
+
+                <div class="contact-grid">
+                    <div class="contact-form-container card fade-in-left">
+                        <h3 class="subsection-title form-title" id="form-title-heading">
+                            <i class="fas fa-paper-plane" aria-hidden="true"></i> Envíame un Mensaje
+                        </h3>
+                        <form class="contact-form" id="contact-form" aria-labelledby="form-title-heading" novalidate> <div class="form-group">
+                                <label for="nombre" class="form-label">
+                                    <i class="fas fa-user" aria-hidden="true"></i> Nombre Completo
+                                </label>
+                                <input type="text" id="nombre" name="nombre" required class="form-input" placeholder="Ingresa tu nombre completo" autocomplete="name">
+                                </div>
+
+                            <div class="form-group">
+                                <label for="email" class="form-label">
+                                    <i class="fas fa-envelope" aria-hidden="true"></i> Correo Electrónico
+                                </label>
+                                <input type="email" id="email" name="email" required class="form-input" placeholder="ejemplo@correo.com" autocomplete="email">
+                            </div>
+
+                            <div class="form-group">
+                                <label for="asunto" class="form-label">
+                                    <i class="fas fa-tag" aria-hidden="true"></i> Asunto (Opcional)
+                                </label>
+                                <input type="text" id="asunto" name="asunto" class="form-input" placeholder="Ej: Propuesta de Colaboración" autocomplete="off">
+                            </div>
+
+                            <div class="form-group">
+                                <label for="mensaje" class="form-label">
+                                    <i class="fas fa-comment-alt" aria-hidden="true"></i> Tu Mensaje
+                                </label>
+                                <textarea id="mensaje" name="mensaje" rows="6" required class="form-textarea" placeholder="Escribe tu mensaje aquí..."></textarea>
+                            </div>
+
+                            <div class="form-actions">
+                                <button type="submit" class="button button-primary submit-button">
+                                    <i class="fas fa-paper-plane" aria-hidden="true"></i> Enviar Mensaje
+                                </button>
+                                <div class="form-status" id="form-status" aria-live="polite"></div> </div>
+                        </form>
+                    </div>
+
+                    <div class="contact-info-container card fade-in-right" data-animation-delay="200">
+                        <h3 class="subsection-title info-title">
+                            <i class="fas fa-address-book" aria-hidden="true"></i> Información de Contacto
+                        </h3>
+                        <p class="info-intro">
+                            También puedes encontrarme y contactarme a través de los siguientes canales:
+                        </p>
+
+                        <div class="contact-method">
+                            <div class="method-icon" aria-hidden="true">
+                                <i class="fas fa-envelope"></i>
+                            </div>
+                            <div class="method-content">
+                                <span class="method-label">Email</span>
+                                <a href="mailto:jeanubdev@gmail.com" class="method-value">jeanubdev@gmail.com</a>
+                            </div>
+                        </div>
+
+                        <div class="contact-method">
+                            <div class="method-icon" aria-hidden="true">
+                                <i class="fab fa-linkedin-in"></i>
+                            </div>
+                            <div class="method-content">
+                                <span class="method-label">LinkedIn</span>
+                                <a href="https://linkedin.com/in/jean-uribe-a34aa0322" target="_blank" rel="noopener noreferrer" class="method-value">linkedin.com/in/jean-uribe</a>
+                            </div>
+                        </div>
+
+                        <div class="contact-method">
+                            <div class="method-icon" aria-hidden="true">
+                                <i class="fab fa-github"></i>
+                            </div>
+                            <div class="method-content">
+                                <span class="method-label">GitHub</span>
+                                <a href="https://github.com/jeanub" target="_blank" rel="noopener noreferrer" class="method-value">github.com/jeanub</a>
+                            </div>
+                        </div>
+
+                        <div class="contact-method">
+                            <div class="method-icon" aria-hidden="true">
+                                <i class="fas fa-map-marker-alt"></i>
+                            </div>
+                            <div class="method-content">
+                                <span class="method-label">Ubicación</span>
+                                <span class="method-value">San Rafael, Mendoza, Argentina</span>
+                            </div>
+                        </div>
+                        
+                        <div class="social-links-contact" aria-label="Otros perfiles sociales">
+                            <a href="https://x.com/tu_usuario_twitter_aqui" target="_blank" rel="noopener noreferrer" class="social-link" aria-label="Perfil de Twitter de Jean Uribe (Ejemplo)">
+                                <i class="fab fa-twitter" aria-hidden="true"></i>
+                            </a>
+                            <a href="https://www.kaggle.com/tu_usuario_kaggle_aqui" target="_blank" rel="noopener noreferrer" class="social-link" aria-label="Perfil de Kaggle de Jean Uribe (Ejemplo)">
+                                <i class="fab fa-kaggle" aria-hidden="true"></i>
+                            </a>
+                            </div>
+                        </div>
+                </div> </div>
+        </section>
+        </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col footer-about">
+                    <a href="#hero" class="footer-logo-link" aria-label="Jean Uribe - Volver al inicio">
+                        <div class="footer-logo">JUB</div>
+                    </a>
+                    <p class="footer-description">
+                        Analista de datos apasionado por transformar información en soluciones y comunicar valor a través de visualizaciones claras.
+                    </p>
+                    <div class="footer-contact">
+                        <a href="mailto:jeanubdev@gmail.com" class="contact-link">
+                            <i class="fas fa-envelope" aria-hidden="true"></i> jeanubdev@gmail.com
+                        </a>
+                    </div>
+                </div>
+
+                <div class="footer-col footer-links">
+                    <h3 class="footer-title">Navegación</h3>
+                    <nav aria-label="Navegación secundaria del pie de página">
+                        <ul class="footer-nav">
+                            <li><a href="#hero">Inicio</a></li>
+                            <li><a href="#sobre-mi">Sobre Mí</a></li>
+                            <li><a href="#proyectos">Proyectos</a></li>
+                            <li><a href="#experiencia">Experiencia</a></li>
+                            <li><a href="#habilidades">Habilidades</a></li>
+                            <li><a href="#contacto">Contacto</a></li>
+                        </ul>
+                    </nav>
+                </div>
+
+                <div class="footer-col footer-social">
+                    <h3 class="footer-title">Conéctate</h3>
+                    <div class="social-links-footer" aria-label="Perfiles sociales principales">
+                        <a href="https://linkedin.com/in/jean-uribe-a34aa0322" target="_blank" rel="noopener noreferrer" class="social-link" aria-label="Perfil de LinkedIn de Jean Uribe">
+                            <i class="fab fa-linkedin-in" aria-hidden="true"></i>
+                        </a>
+                        <a href="https://github.com/jeanub" target="_blank" rel="noopener noreferrer" class="social-link" aria-label="Perfil de GitHub de Jean Uribe">
+                            <i class="fab fa-github" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer-bottom">
+                <div class="copyright">
+                    &copy; <span id="current-year">2025</span> Jean Axel Uribe. Todos los derechos reservados. </div>
+                </div>
+        </div>
+
+        <button class="back-to-top" aria-label="Volver al inicio de la página" title="Volver al inicio de la página">
+            <i class="fas fa-arrow-up" aria-hidden="true"></i>
+        </button>
+    </footer>
+    <script src="scripts.js" defer></script>
+</body>
+</html>
