@@ -14,7 +14,7 @@ Soy un profesional con formación en **Ingeniería en Sistemas de Información**
 
 ## 📌 Proyectos Destacados
 ### 🔹 Análisis de Series Animadas
-- **Objetivo:** Identificar tendencias en la producción de series animadas en Latinoamérica.
+- **Objetivo:** Identificar tendencias en la producción de series animadas en la pagina: LACartoons.
 - **Tecnologías:** Python (Pandas, BeautifulSoup), MySQL, Power BI
 - **Impacto:** Insights sobre géneros populares y evolución de la producción.
 
