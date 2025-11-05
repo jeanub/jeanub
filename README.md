@@ -1,52 +1,57 @@
 # 📊 Jean Uribe | Business Intelligence & Data Extraction Specialist  
 
-> *Transforming data into actionable insights through analytics, automation, and business intelligence.*
+> *Transformando datos en decisiones estratégicas / Turning data into strategic decisions*
 
 ---
 
-## 🧠 About Me  
+## 🧠 Sobre mí | About Me  
 
-I'm **Jean Uribe**, a Data Analyst and Developer specialized in **Business Intelligence** and **Data Extraction**.  
-I combine technical knowledge in **Information Systems Engineering** and **Software Development** with hands-on experience in **Python**, **SQL**, and **Power BI**.  
+Soy **Jean Uribe**, Analista y Desarrollador especializado en **Business Intelligence** y **Extracción de Datos**.  
+Combino mi formación en **Ingeniería en Sistemas de Información** y **Desarrollo de Software** con experiencia práctica en **Python**, **SQL** y **Power BI**.  
 
-My focus is to build **data-driven processes** by emphasizing:
-- Data quality and reliability.  
-- Process automation and optimization.  
-- Clear, executive-level communication through dashboards.  
+I'm **Jean Uribe**, a Data Analyst & Developer specialized in **Business Intelligence** and **Data Extraction**.  
+I blend my background in **Information Systems Engineering** and **Software Development** with hands-on expertise in **Python**, **SQL**, and **Power BI**.  
+
+🔎 Mi enfoque / My focus:  
+- ✅ Calidad y confiabilidad de datos / Data quality & reliability  
+- ⚡ Automatización y optimización de procesos / Process automation & optimization  
+- 📊 Comunicación ejecutiva mediante dashboards / Executive-level storytelling dashboards  
 
 ---
 
-## ⚙️ Technical Skills  
+## ⚙️ Habilidades Técnicas | Technical Skills  
 
-| Category | Tools |
+| Categoría / Category | Herramientas / Tools |
 |:--|:--|
-| **Languages** | Python · SQL |
-| **Data Analysis & Modeling** | Pandas · NumPy · Scikit-learn · DAX · Power Query |
-| **Business Intelligence & Visualization** | Power BI · Tableau · Matplotlib · Seaborn |
-| **Automation** | Web Scraping · Power Automate · RPA with Python |
-| **Version Control** | Git · GitHub |
+| **Lenguajes / Languages** | Python · SQL |
+| **Análisis & Modelado / Analysis & Modeling** | Pandas · NumPy · Scikit-learn · DAX · Power Query |
+| **BI & Visualización / BI & Visualization** | Power BI · Tableau · Matplotlib · Seaborn |
+| **Automatización / Automation** | Web Scraping · Power Automate · RPA with Python |
+| **Control de Versiones / Version Control** | Git · GitHub |
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Proyectos Destacados | Featured Projects  
 
-### 🔹 **Animated Series Analysis (Web Scraping + BI)**  
-**Goal:** Identify production trends and genre popularity on *LACartoons*.  
-**Technologies:** Python (Pandas, BeautifulSoup), MySQL, Power BI.  
-**Results:** Insights into production evolution and most frequent categories.  
+### 🔹 **Análisis de Series Animadas (Web Scraping + BI)**  
+**Objetivo / Goal:** Identificar tendencias de producción y popularidad de géneros en *LACartoons*.  
+**Tecnologías / Stack:** Python (Pandas, BeautifulSoup), MySQL, Power BI.  
+**Resultados / Results:** Insights sobre evolución de producción y categorías más frecuentes.  
+🔗 [Repositorio / Repository](https://github.com/jeanub/jeanub)  
 
 ---
 
-## 📈 In Progress: DataNova Learning Journey  
+## 🚀 DataNova Learning Journey (En Progreso / In Progress)  
 
-A self-designed learning roadmap divided into **four progressive levels**, covering the full Business Intelligence workflow:
+Un roadmap de aprendizaje dividido en **cuatro niveles progresivos**, cubriendo el flujo completo de BI.  
+A self-designed roadmap covering the **end-to-end BI workflow**, structured into four levels:  
 
-1. 🟥 **Data Fundamentals** → Data cleaning and exploration.  
-2. 🟧 **Modeling & Connection** → DAX, relationships, and storytelling.  
-3. 🟨 **Predictive Intelligence** → Forecasting, clustering, and APIs.  
-4. 🟦 **Strategy & BI Architecture** → Scalability, governance, and automation.  
+1. 🟥 **Fundamentos de Datos / Data Fundamentals** → Limpieza y exploración / Cleaning & exploration  
+2. 🟧 **Modelado & Conexión / Modeling & Connection** → DAX, relaciones, storytelling  
+3. 🟨 **Inteligencia Predictiva / Predictive Intelligence** → Forecasting, clustering, APIs  
+4. 🟦 **Estrategia & Arquitectura BI / Strategy & BI Architecture** → Escalabilidad, gobierno, automatización  
 
-> Each level includes reproducible projects and public datasets to demonstrate real-world BI competencies.
+> Cada nivel incluye proyectos reproducibles y datasets públicos / Each stage includes reproducible projects and public datasets.  
 
 ---
 
@@ -62,29 +67,17 @@ A self-designed learning roadmap divided into **four progressive levels**, cover
 
 ---
 
-## 📫 Contact  
+## 📊 Estadísticas | GitHub Highlights  
+
+![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanub&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanub&layout=compact&theme=radical)  
+
+---
+
+## 📫 Contacto | Contact  
 
 📧 **Email:** [jeanubdev@gmail.com](mailto:jeanubdev@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/jean-uribe-a34aa0322](https://linkedin.com/in/jean-uribe-a34aa0322)  
-💻 **GitHub:** [github.com/jeanub](https://github.com/jeanub)
+💼 **LinkedIn:** [linkedin.com/in/jeanub](https://linkedin.com/in/jeanub)  
+🌐 **Portfolio:** [jeanub.github.io](https://jeanub.github.io)  
 
 ---
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeanub&show_icons=true&theme=dark&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanub&layout=compact&theme=dark&hide_border=true" height="165">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeanub&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
-
----
-
-## 🧭 Philosophy  
-
-> *“The value of data lies not in its volume, but in the clarity it brings to decision-making.”*  
-
-I aim to build a solid career in **Business Intelligence**, integrating technical analytics, automation, and storytelling to drive measurable business impact.
