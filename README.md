@@ -1,39 +1,47 @@
-# 📊 Jean Uribe | Analista de Datos & Desarrollador
+📊 Jean Uribe | Business Intelligence & Data Extraction Specialist
 
-¡Bienvenido a mi repositorio! Soy **Jean Uribe**, un apasionado analista de datos y desarrollador con experiencia en transformar datos complejos en insights accionables y soluciones data-driven.
+Transformo datos en decisiones accionables mediante análisis, automatización y visualización profesional.
 
-## 🚀 Sobre Mí
-Soy un profesional con formación en **Ingeniería en Sistemas de Información** y **Desarrollo de Software**, con certificaciones en **Data Analysis con Python**. Mi enfoque se centra en la calidad de los datos, la elección de herramientas adecuadas y la comunicación efectiva de hallazgos.
+🧠 Sobre mí
 
-## 🛠️ Habilidades Técnicas
-- **Lenguajes:** Python, SQL
-- **Análisis de Datos:** Pandas, NumPy, Scikit-learn
-- **Visualización:** Matplotlib, Seaborn, Power BI, Tableau
-- **Automatización:** Web Scraping, RPA con Python
-- **Control de Versiones:** Git & GitHub
+Soy Jean Uribe, analista de datos y desarrollador especializado en Business Intelligence y extracción de datos.
+Combino conocimientos en Ingeniería en Sistemas de Información y Desarrollo de Software con experiencia práctica en Python, SQL y Power BI.
 
-## 📌 Proyectos Destacados
-### 🔹 Análisis de Series Animadas
-- **Objetivo:** Identificar tendencias en la producción de series animadas en la pagina: LACartoons.
-- **Tecnologías:** Python (Pandas, BeautifulSoup), MySQL, Power BI
-- **Impacto:** Insights sobre géneros populares y evolución de la producción.
+Mi enfoque está en construir procesos data-driven, priorizando:
 
-### 🔹 Dashboard Financiero Interactivo (PYME)
-- **Objetivo:** Visualizar indicadores financieros clave para la toma de decisiones.
-- **Tecnologías:** Excel (Power Query, DAX), Power BI, SQL
-- **Impacto:** Mejora del 25% en la eficiencia de revisión financiera mensual.
+Calidad y limpieza de la información.
 
-### 🔹 Automatización de Reportes
-- **Objetivo:** Reducir el tiempo de generación de reportes mensuales.
-- **Tecnologías:** Python (Pandas, Openpyxl)
-- **Impacto:** Reducción del tiempo de generación de reportes de 8 horas a 15 minutos.
+Automatización de tareas repetitivas.
 
-## 📫 Contacto
-Si te interesa colaborar o tienes alguna pregunta, ¡contáctame!
-- **Email:** jeanubdev@gmail.com
-- **LinkedIn:** [linkedin.com/in/jean-uribe](https://linkedin.com/in/jean-uribe)
-- **GitHub:** [github.com/jeanub](https://github.com/jeanub)
+Visualizaciones que comuniquen valor empresarial.
 
----
+⚙️ Habilidades técnicas
+Categoría	Herramientas
+Lenguajes	Python · SQL
+Análisis y Modelado	Pandas · NumPy · Scikit-learn · DAX · Power Query
+Visualización BI	Power BI · Tableau · Matplotlib · Seaborn
+Automatización	Web Scraping · Power Automate · RPA con Python
+Control de versiones	Git · GitHub
+📂 Proyectos destacados
 
-Este README refleja tu portafolio y habilidades. ¿Te gustaría agregar algo más o personalizarlo de alguna manera? 🚀
+📈 En desarrollo: DataNova Learning Journey
+
+Un proyecto formativo propio dividido en 4 niveles progresivos, diseñado para dominar el flujo completo de Business Intelligence:
+
+🟥 Fundamentos del Dato → Limpieza y exploración.
+
+🟧 Modelado y Conexión → DAX, relaciones y storytelling.
+
+🟨 Inteligencia Predictiva → Forecasting, clustering y APIs.
+
+🟦 Estrategia y Arquitectura BI → Escalabilidad, automatización y marca analítica.
+
+Cada nivel incluye proyectos replicables y datasets públicos para demostrar competencias reales.
+
+📫 Contacto
+
+📧 Email: jeanubdev@gmail.com
+
+🔗 LinkedIn: linkedin.com/in/jean-uribe-a34aa0322
+
+💻 GitHub: github.com/jeanub
