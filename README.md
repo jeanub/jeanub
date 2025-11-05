@@ -30,27 +30,6 @@ Mi enfoque está en construir procesos **data-driven**, priorizando:
 
 ## 📂 Proyectos destacados  
 
-### 🔹 **Análisis de Series Animadas (Web Scraping + BI)**  
-**Objetivo:** Identificar tendencias en la producción de series animadas en *LACartoons*.  
-**Tecnologías:** Python (Pandas, BeautifulSoup), MySQL, Power BI.  
-**Resultados:** Detección de géneros más producidos y evolución de la industria en el tiempo.  
-
----
-
-### 🔹 **Dashboard Financiero Interactivo (PYME)**  
-**Objetivo:** Visualizar indicadores financieros clave para la toma de decisiones gerenciales.  
-**Tecnologías:** SQL, Excel (Power Query, DAX), Power BI.  
-**Resultados:** Reducción del tiempo de revisión financiera en un **25 %** y mayor precisión en reportes.  
-
----
-
-### 🔹 **Automatización de Reportes Mensuales**  
-**Objetivo:** Optimizar la generación de reportes contables.  
-**Tecnologías:** Python (Pandas, Openpyxl).  
-**Resultados:** Reducción del proceso de 8 horas a **15 minutos** mediante automatización.  
-
----
-
 ## 📈 En desarrollo: DataNova Learning Journey  
 
 Un proyecto formativo propio dividido en **4 niveles progresivos**, diseñado para dominar el flujo completo de Business Intelligence:  
