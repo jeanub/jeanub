@@ -71,7 +71,9 @@ A self-designed roadmap covering the **end-to-end BI workflow**, structured into
 
 ![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanub&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanub&layout=compact&theme=radical)  
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jeanub&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
 ---
 
 ## 📫 Contacto | Contact  
