@@ -80,10 +80,11 @@ A self-designed roadmap covering the **end-to-end BI workflow**, structured into
 💼 **LinkedIn:** [linkedin.com/in/jeanub](https://linkedin.com/in/jeanub)  
 🌐 **Portfolio:** [jeanub.github.io](https://jeanub.github.io)  
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jeanub&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
+
+
+
