@@ -37,20 +37,6 @@ My focus is to build **data-driven processes** by emphasizing:
 
 ---
 
-### 🔹 **Interactive Financial Dashboard (SME)**  
-**Goal:** Display key financial KPIs for strategic decision-making.  
-**Technologies:** SQL, Excel (Power Query, DAX), Power BI.  
-**Results:** Reduced financial review time by **25%** and improved data accuracy.  
-
----
-
-### 🔹 **Automated Reporting System**  
-**Goal:** Automate the generation of monthly reports.  
-**Technologies:** Python (Pandas, Openpyxl).  
-**Results:** Decreased report generation time from 8 hours to **15 minutes**.  
-
----
-
 ## 📈 In Progress: DataNova Learning Journey  
 
 A self-designed learning roadmap divided into **four progressive levels**, covering the full Business Intelligence workflow:
