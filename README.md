@@ -40,7 +40,7 @@ My background in **Information Systems Engineering** and **Software Development*
 
 A roadmap covering the **end-to-end BI workflow**, structured into four progressive levels:  
 
-1. 🟥 **Data Fundamentals** → Cleaning & exploration  
+1. 🟥 **Data Fundamentals** → Cleaning & exploration  🔗 [Repository](https://github.com/jeanub/Level_1_Data-Fundamentals) 
 2. 🟧 **Modeling & Connection** → DAX, relationships, semantic modeling  
 3. 🟨 **Predictive Intelligence** → Forecasting, clustering, APIs  
 4. 🟦 **BI Strategy & Architecture** → Scalability, governance, automation  
