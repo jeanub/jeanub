@@ -32,7 +32,7 @@ My background in **Information Systems Engineering** and **Software Development*
 **Goal:** Identify production trends and genre popularity in *LACartoons*.  
 **Stack:** Python (Pandas, BeautifulSoup), MySQL, Power BI  
 **Results:** Insights on production evolution and most frequent categories  
-🔗 [Repository](https://github.com/jeanub/jeanub)  
+🔗 [Repository](https://github.com/jeanub/lacartoons_series_animadas)  
 
 ---
 
